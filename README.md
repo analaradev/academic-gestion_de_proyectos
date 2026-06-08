@@ -1,26 +1,34 @@
-# academic-gestion_de_proyectos
+# Gestion de Proyectos
 
-Repositorio académico relacionado con la materia o práctica de gestión de proyectos.
+<div align="center">
 
-## Categoría
+![Academic](https://img.shields.io/badge/Tipo-Academico-6f42c1?style=for-the-badge)
+![Course](https://img.shields.io/badge/Clase-Gestion%20de%20Proyectos-0ea5e9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Finalizado-22c55e?style=for-the-badge)
 
-`academic-` — materiales y entregables de escuela/universidad.
+**Evidencia finalizada para la clase de Gestion de Proyectos.**
 
-## Descripción
+</div>
 
-Este repositorio conserva evidencias, documentos o avances asociados a gestión de proyectos.
+---
 
-## Objetivos
+## Contexto Academico
 
-- Organizar entregables académicos.
-- Documentar avances de proyecto.
-- Practicar planeación y seguimiento.
+Repositorio con evidencias, documentos o entregables asociados a la materia de Gestion de Proyectos.
+
+## Proposito
+
+- Organizar entregables academicos finalizados.
+- Documentar planeacion y seguimiento.
 - Conservar evidencia de la materia.
+- Reforzar practica de administracion de proyectos.
+
+## Temas
+
+![Planning](https://img.shields.io/badge/Planeacion-2563eb?style=flat-square)
+![Management](https://img.shields.io/badge/Gestion-f97316?style=flat-square)
+![Academic](https://img.shields.io/badge/Evidencia%20Academica-16a34a?style=flat-square)
 
 ## Estado
 
-Repositorio académico.
-
-## Nota
-
-Puede contener archivos de documentación, planeación o evidencia de trabajo escolar.
+Repositorio academico finalizado.
